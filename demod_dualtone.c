@@ -1,7 +1,7 @@
 /*
  *      demod_dualtone.c -- dualtone evaluator (TR-BOS C 4.6)
  *
- *      Copyright (C) 2026 https://github.com/stahmatt
+ *      Copyright (C) 2026 Matthias Stahl (https://github.com/stahmatt)
  *
  *      Decodes the dualtone (Doppelton) continuous tone used to trigger
  *      sirens, as defined by the group M continuous tone per DIN 45012.
